@@ -8,7 +8,7 @@ Liam James Middlebrook
 | Programming Languages |    Libraries and Frameworks    |          Development Tools          |
 | --------------------- | ------------------------------ | ----------------------------------- |
 | C# (6 yrs.)           | .NET (4.0 - 4.5)               | Microsoft Visual Studio (2010-2013) |
-| C++11 (1 yr.)         | XNA (4.0 - 4.0 Refresh)        | Unity 4.3                           |
+| C++ (1 yr.)           | XNA (4.0 - 4.0 Refresh)        | Unity3D 4.3                         |
 | GLSL (Familiar)       | Modern OpenGL (3.3 and above)  | Git                                 |
 | Python (Familiar)     |                                | GCC                                 |
 | Java (Familiar)       |                                |                                     |
@@ -39,7 +39,7 @@ Liam James Middlebrook
 > ------------------
 > * Worked with students from grades 9 - 12
 > * Taught students how to create games in the Unity3D engine
-> * Taught syntax and style guidlines for C#
+> * Taught syntax and style guidelines for C#
 
 ### Kids On Campus Assistant Instructor
 > July 2012 - August 2013
@@ -53,7 +53,7 @@ Liam James Middlebrook
 
 ## Education
 ### Rochester Institute of Technology
-> Septemeber 2010 - Present
+> September 2010 - Present
 >
 > #### Project Lead the Way
 >> September 2010 - June 2013
