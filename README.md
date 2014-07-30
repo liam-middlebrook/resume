@@ -5,26 +5,16 @@ Liam James Middlebrook
 **github: [liam-middlebrook](https://github.com/liam-middlebrook)**
 
 ## Skills
-#### Programming Languages:
-* C# (6 yrs.)
-* C++11 (1 yr.)
-* GLSL (Familiar)
-* Python (Familiar)
-* Java (Familiar)
-* HTML (Familiar)
-* Javascript (Familiar)
+| Programming Languages |    Libraries and Frameworks    |          Development Tools          |
+| --------------------- | ------------------------------ | ----------------------------------- |
+| C# (6 yrs.)           | .NET (4.0 - 4.5)               | Microsoft Visual Studio (2010-2013) |
+| C++11 (1 yr.)         | XNA (4.0 - 4.0 Refresh)        | Unity 4.3                           |
+| GLSL (Familiar)       | Modern OpenGL (3.3 and above)  | Git                                 |
+| Python (Familiar)     |                                | GCC                                 |
+| Java (Familiar)       |                                |                                     |
+| HTML (Familiar)       |                                |                                     |
+| Javascript (Familiar) |                                |                                     |
 
-#### Libraries and Frameworks
-* .NET (4.0 - 4.5)
-* XNA (4.0 and 4.0 Refresh)
-* Modern OpenGL (3.3 and above)
-
-#### Development Tools:
-* Microsoft Visual Studio (2010-2013)
-* Unity 4.3
-* Git
-* SourceTree
-* GNU Compiler Collection (GCC)
 
 ## Projects
 ### Russian Chicken Inspector
