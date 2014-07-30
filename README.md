@@ -62,3 +62,6 @@ Liam James Middlebrook
 >> August 2013 - Present
 >
 >3.7 GPA
+
+## References
+#### Available on Request
