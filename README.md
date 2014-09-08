@@ -12,8 +12,6 @@ Liam James Middlebrook
 | GLSL (Familiar)       | Modern OpenGL (3.3 and above)  | Git                                 |
 | Python (Familiar)     |                                | GCC                                 |
 | Java (Familiar)       |                                |                                     |
-| Javascript (Familiar) |                                |                                     |
-
 
 ## Projects
 ### Russian Chicken Inspector
@@ -33,6 +31,14 @@ Liam James Middlebrook
 * [https://github.com/GearChicken/MINX](https://github.com/GearChicken/MINX)
 
 ## Work Experience
+### MAGIC Research Fellow
+> March 2014 - Present
+>
+> ------------------
+> * Worked on [blockytalky](https://github.com/liam-middlebrook/blockytalky.git)
+> * Implemented Servo Motor Block
+> * Co-Implemented Remote Control Interface
+
 ### Kids On Campus Instructor
 > July 2014 - August 2014
 >
