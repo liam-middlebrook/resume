@@ -804,11 +804,6 @@
   <use xlink:href="#glyph1-8" x="201.000958" y="172.999"/>
   <use xlink:href="#glyph1-35" x="204.903308" y="172.999"/>
 </g>
-<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph1-53" x="375.232884" y="172.999"/>
-  <use xlink:href="#glyph1-30" x="383.050537" y="172.999"/>
-  <use xlink:href="#glyph1-30" x="390.245526" y="172.999"/>
-</g>
 <path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.0015625 0.00078125 L 365.517187 0.00078125 " transform="matrix(1,0,0,-1,129.6,178.7)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-16" x="36" y="206.067"/>
