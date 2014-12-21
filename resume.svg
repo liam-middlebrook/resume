@@ -973,18 +973,25 @@
   <use xlink:href="#glyph1-35" x="204.903308" y="136.999"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph1-42" x="375.232884" y="136.999"/>
-  <use xlink:href="#glyph1-9" x="380.768105" y="136.999"/>
-  <use xlink:href="#glyph1-17" x="385.749405" y="136.999"/>
-  <use xlink:href="#glyph1-8" x="391.284625" y="136.999"/>
-  <use xlink:href="#glyph1-14" x="395.186976" y="136.999"/>
-  <use xlink:href="#glyph1-6" x="399.614355" y="136.999"/>
-  <use xlink:href="#glyph1-29" x="404.041735" y="136.999"/>
+  <use xlink:href="#glyph1-24" x="249.873489" y="136.999"/>
+  <use xlink:href="#glyph1-1" x="256.377074" y="136.999"/>
+  <use xlink:href="#glyph1-3" x="259.144684" y="136.999"/>
+  <use xlink:href="#glyph1-23" x="264.125984" y="136.999"/>
+  <use xlink:href="#glyph1-10" x="268.055234" y="136.999"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph1-8" x="410.409829" y="136.999"/>
-  <use xlink:href="#glyph1-6" x="414.312179" y="136.999"/>
-  <use xlink:href="#glyph1-6" x="418.739559" y="136.999"/>
+  <use xlink:href="#glyph1-42" x="375.230892" y="136.999"/>
+  <use xlink:href="#glyph1-9" x="380.766112" y="136.999"/>
+  <use xlink:href="#glyph1-17" x="385.747412" y="136.999"/>
+  <use xlink:href="#glyph1-8" x="391.282633" y="136.999"/>
+  <use xlink:href="#glyph1-14" x="395.184983" y="136.999"/>
+  <use xlink:href="#glyph1-6" x="399.612363" y="136.999"/>
+  <use xlink:href="#glyph1-29" x="404.039742" y="136.999"/>
+</g>
+<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+  <use xlink:href="#glyph1-8" x="410.407836" y="136.999"/>
+  <use xlink:href="#glyph1-6" x="414.310187" y="136.999"/>
+  <use xlink:href="#glyph1-6" x="418.737566" y="136.999"/>
 </g>
 <path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.0015625 0.00078125 L 365.517187 0.00078125 " transform="matrix(1,0,0,-1,129.6,142.7)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
